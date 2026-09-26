@@ -8,7 +8,7 @@ Bienvenido a mi GitHub. Soy un desarrollador en formación apasionado por la cal
 * 🎓 **Estudiante de Ingeniería en Informática**, combinando la lógica de desarrollo con la mentalidad de Quality Assurance (Shift-Left Testing).
 * 🐍 **Lenguajes principales:** Python y Java.
 * 🐳 **Infraestructura:** Entusiasta de DevOps. Uso **Docker** y **GitHub Actions** (CI/CD) para asegurar que mis pruebas se ejecuten en entornos aislados y consistentes.
-* 🎯 **Enfoque actual:** Construyendo frameworks de pruebas automatizadas (E2E y API) aplicando patrones de diseño como Page Object Model (POM).
+* 🎯 **Enfoque actual:** Implementando estrategias de Shift-Left Testing, creando herramientas y scripts automatizados que permiten detectar y reportar defectos desde las primeras fases del desarrollo.
 * 📫 **Contáctame en:** patriciojimenez838@gmail.com o conecta conmigo en LinkedIn (www.linkedin.com/in/patricio-jimenez-239515253).
 
 ---
